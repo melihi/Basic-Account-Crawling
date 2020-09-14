@@ -16,7 +16,7 @@
   
   
 ## Features
-* It just generate random url and then visits the link.If note is empty crawler not it doesn't search keywords.If the note not emty searching for keywords like "credit                     card , gmail,instagram etc." and  creating a text file write to in._**Simple.**_
+* It just generate random url and then visits the link.If note is empty , crawler  doesn't search the keywords.If the note is not empty , searching for keywords like "credit                     card , gmail,instagram etc." and  creating a text file write to in._**Simple.**_
 
 
  
