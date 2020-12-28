@@ -2,14 +2,14 @@
 <p align="center">
   <h1 align="center">Basic-Account-Crawling</h1>
 </p>
-* Accounts , e-mails etc. crawling in public notes.I found so much credetial with this easy way.
+
 
 
 
 <p align="center">
-<img src="https://i.giphy.com/media/26onJIPMeJ6e048ntE/giphy.webp" ></p>
+<img src="https://i.giphy.com/media/26onJIPMeJ6e048ntE/giphy.webp" ></p><br>
 
-
+* Accounts , e-mails etc. crawling in public notes.I found so much credetial with this easy way.
 
 
 ## Libraries
