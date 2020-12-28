@@ -3,8 +3,8 @@
 
 
 
-
-![Basic-Account-Crawling](https://i.giphy.com/media/26onJIPMeJ6e048ntE/giphy.webp)
+<p align="center">
+<img src="https://i.giphy.com/media/26onJIPMeJ6e048ntE/giphy.webp" ></p>
 
 
 
